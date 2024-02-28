@@ -24,7 +24,8 @@
 		{"id":"ec22c779b6d4ffe0","x":-1554,"y":-33,"width":250,"height":60,"type":"text","text":"Математические методы\n"},
 		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1520,"y":-370,"width":310,"height":100},
 		{"id":"2892dee39b38b22e","x":-2320,"y":155,"width":320,"height":225,"type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool"},
-		{"id":"5206de1941b781ad","type":"text","text":"Векторное представление слов\n1. One - hote  encoding \n2. Bag of words (Bo)\n3. Tf_idf\n4. Латентный семантический анализ\n\n5. LSA\n","x":-1820,"y":155,"width":360,"height":225}
+		{"id":"5206de1941b781ad","type":"text","text":"Векторное представление слов\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Латентный семантический анализ\n\n5. LSA\n","x":-1820,"y":155,"width":360,"height":225},
+		{"id":"a0aca11246297ab1","x":-2000,"y":500,"width":250,"height":60,"type":"text","text":"SVD  (Сингулярное разложение)"}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
