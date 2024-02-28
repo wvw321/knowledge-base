@@ -1,1 +1,2 @@
-# knowledge-base
+#  Структуризация знаний
+Формат https://obsidian.md/
