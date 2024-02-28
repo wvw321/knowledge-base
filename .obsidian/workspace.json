@@ -16,29 +16,13 @@
                 "file": "ML/Neuar Networks and Deep Learning/Nlp/NLP.canvas",
                 "viewState": {
                   "x": -839.7663047802707,
-                  "y": 125.059893937992,
+                  "y": -22.56840389505055,
                   "zoom": -0.6666666666666667
                 }
               }
             }
-          },
-          {
-            "id": "472b120ac9bd1928",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ML/Neuar Networks and Deep Learning/Nlp/NLP.canvas",
-                "viewState": {
-                  "x": -338.6887359475124,
-                  "y": -1009.7090939035016,
-                  "zoom": -0.9999999999999996
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Embedding",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,11 +68,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 376.5
   },
   "right": {
     "id": "30a8046ad6b1f52e",
@@ -166,11 +151,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "472b120ac9bd1928",
+  "active": "094914709331a782",
   "lastOpenFiles": [
-    "Embedding.md",
+    "Без названия.canvas",
     "ML/Neuar Networks and Deep Learning/Nlp/NLP.canvas",
+    "2024-02-28.md",
+    "ML/Neuar Networks and Deep Learning/CV/CV map.canvas",
     "ML/Macine Learning.canvas",
+    "ML/Embedding.md",
     "ML/Auxiliary files/Association.png",
     "ML/Auxiliary files/Classification.png",
     "ML/Auxiliary files",
@@ -180,10 +168,9 @@
     "Neuar Networks and Deep Learning.md",
     "().md",
     "ML/Neuar Networks and Deep Learning/Neuar Networks and Deep Learning.canvas",
-    "ML/CV/CV map.canvas",
     "ML/Neuar Networks and Deep Learning",
     "ML/Classical Machine Lerning",
-    "ML/CV/Tracking.md",
+    "ML/Neuar Networks and Deep Learning/CV/Tracking.md",
     "Inference.md",
     "Infere.md",
     "а.md",
@@ -191,6 +178,6 @@
     "ML/CV/Welcome.md",
     "ML/Neuar Networks and Deep Learning/Nlp",
     "ML",
-    "ML/CV"
+    "ML/Neuar Networks and Deep Learning/CV"
   ]
 }
