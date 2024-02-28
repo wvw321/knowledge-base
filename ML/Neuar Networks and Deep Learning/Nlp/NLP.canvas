@@ -1,7 +1,5 @@
 {
 	"nodes":[
-		{"id":"52108fa13374d57d","type":"text","text":"Слов:\n1. Контекстные  эмбеддинги\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1440,"y":140,"width":300,"height":210},
-		{"id":"f9ae7f9f7d9a489f","type":"text","text":"Эмбеддинг фраз и предложений \n\n\n","x":-1100,"y":140,"width":320,"height":80},
 		{"id":"463295d5a3c28fd7","type":"text","text":" Natural Language Processing (NLP)","x":-660,"y":-450,"width":320,"height":80},
 		{"id":"66579eac26cbff14","type":"text","text":"Qeution answering (Вопросно-ответные системы)","x":206,"y":-517,"width":514,"height":99},
 		{"id":"a5bb477cfad14537","type":"text","text":"Машинный перевод\nпример яндекс гугл переводчик","x":206,"y":-638,"width":433,"height":88},
@@ -21,8 +19,10 @@
 		{"id":"d72c3b69a51664ad","type":"text","text":"Обработака аудио","x":-1364,"y":-1441,"width":250,"height":60},
 		{"id":"a307b4dab1df3885","type":"text","text":"speech enhancement (улучшение качества звука)","x":-1040,"y":-1231,"width":250,"height":108},
 		{"id":"d3b394b1bd6ef9e1","type":"text","text":"РАзделение источников звука","x":-740,"y":-1231,"width":250,"height":108},
-		{"id":"5206de1941b781ad","type":"text","text":"Векторное представление \nслов \n1. Bow\n2. Tf_idf\n3. LSA\n","x":-1820,"y":155,"width":320,"height":180},
-		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1240,"y":-40,"width":310,"height":100}
+		{"id":"5206de1941b781ad","type":"text","text":"Векторное представление слов\n1. One - hote  encoding \n1. Bow\n2. Tf_idf\n4. LSA\n","x":-1820,"y":155,"width":320,"height":180},
+		{"id":"f9ae7f9f7d9a489f","type":"text","text":"Эмбеддинг фраз и предложений \n\n\n","x":-880,"y":155,"width":320,"height":80},
+		{"id":"52108fa13374d57d","type":"text","text":"Слов:\n1. Контекстные  эмбеддинги\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1390,"y":140,"width":300,"height":210},
+		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1500,"y":-150,"width":310,"height":100}
 	],
 	"edges":[
 		{"id":"cc33cf61d3689147","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"52108fa13374d57d","toSide":"top"},
