@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e8d1b9fa5b553d2b","type":"text","text":"Computer Vision(DL)\n     [на основе](https://miro.com/app/board/uXjVN3JBiS4=/)","x":-720,"y":-3280,"width":200,"height":93,"color":"2"},
+		{"id":"e77992151b65d58e","type":"text","text":"[Tasks (Задачи) :](https://paperswithcode.com/area/computer-vision)\n1. Detection\n2. Classification\n3. Regresion\n4. Segmentation\n5. Metric Lerning\n6. Anomaly Detection\n7. Genererion\n8. [[Tracking]]\n\n\n\nand more","x":-400,"y":-3420,"width":250,"height":400},
+		{"id":"77b5554679b99873","type":"text","text":"Bывод (Inference)\n  - Cpu\n  - Gpu\n  - Npu\n  - Over","x":-400,"y":-3000,"width":200,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"b4335c4c32fcc6fc","fromNode":"e8d1b9fa5b553d2b","fromSide":"right","toNode":"77b5554679b99873","toSide":"left"},
+		{"id":"43c53fb92ce3b456","fromNode":"e8d1b9fa5b553d2b","fromSide":"right","toNode":"e77992151b65d58e","toSide":"left"}
+	]
+}
