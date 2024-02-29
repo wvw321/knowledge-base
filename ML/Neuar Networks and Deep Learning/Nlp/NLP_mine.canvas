@@ -20,7 +20,7 @@
 		{"id":"fa4ec2aae83524a0","type":"text","text":"мультизадачи (CV +NLP)","x":-196,"y":-1492,"width":250,"height":60},
 		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":166,"y":-1600,"width":307,"height":108},
 		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1320,"y":220,"width":360,"height":225},
-		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов\n1. [[cosine similarity]](косинусное сходство)","x":-2260,"y":0,"width":370,"height":140},
+		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов\n1. [[Сosine similarity]](косинусное сходство)","x":-2260,"y":0,"width":370,"height":140},
 		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
 		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1630,"y":-50,"width":310,"height":100},
 		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-1300,"y":540,"width":320,"height":225},
