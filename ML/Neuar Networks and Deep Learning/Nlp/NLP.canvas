@@ -20,12 +20,11 @@
 		{"id":"a307b4dab1df3885","type":"text","text":"speech enhancement (улучшение качества звука)","x":-1040,"y":-1231,"width":250,"height":108},
 		{"id":"d3b394b1bd6ef9e1","type":"text","text":"РАзделение источников звука","x":-740,"y":-1231,"width":250,"height":108},
 		{"id":"f9ae7f9f7d9a489f","type":"text","text":"Эмбеддинг фраз и предложений \n1. \n\n","x":-880,"y":155,"width":320,"height":180},
-		{"id":"52108fa13374d57d","type":"text","text":"Слов:\n\n\n1. Контекстные  эмбеддинги\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1300,"y":140,"width":300,"height":240},
-		{"id":"ec22c779b6d4ffe0","x":-1554,"y":-33,"width":250,"height":60,"type":"text","text":"Математические методы\n"},
 		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1520,"y":-370,"width":310,"height":100},
 		{"id":"2892dee39b38b22e","x":-2320,"y":155,"width":320,"height":225,"type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool"},
-		{"id":"5206de1941b781ad","type":"text","text":"Векторное представление слов\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Латентный семантический анализ\n\n5. LSA\n","x":-1820,"y":155,"width":360,"height":225},
-		{"id":"a0aca11246297ab1","x":-2000,"y":500,"width":250,"height":60,"type":"text","text":"SVD  (Сингулярное разложение)"}
+		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1875,"y":155,"width":360,"height":225},
+		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1340,"y":148,"width":300,"height":240},
+		{"id":"a0aca11246297ab1","x":-1875,"y":500,"width":250,"height":60,"type":"text","text":"SVD  (Сингулярное разложение)"}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
@@ -43,9 +42,8 @@
 		{"id":"091ba1ca5ac03854","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"f53928f6d140280f","toSide":"top"},
 		{"id":"a2236638d756014e","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"a307b4dab1df3885","toSide":"top"},
 		{"id":"3bca5439200c6a92","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"d3b394b1bd6ef9e1","toSide":"top"},
-		{"id":"37285c6ef7533db0","fromNode":"52108fa13374d57d","fromSide":"left","toNode":"5206de1941b781ad","toSide":"right"},
-		{"id":"887fcf769bcaab02","fromNode":"ec22c779b6d4ffe0","fromSide":"bottom","toNode":"5206de1941b781ad","toSide":"top"},
-		{"id":"4ee3fe2b0b29763a","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"ec22c779b6d4ffe0","toSide":"top"},
-		{"id":"9fccfc4dec9a3c5b","fromNode":"5206de1941b781ad","fromSide":"left","toNode":"2892dee39b38b22e","toSide":"right"}
+		{"id":"9fccfc4dec9a3c5b","fromNode":"5206de1941b781ad","fromSide":"left","toNode":"2892dee39b38b22e","toSide":"right","toEnd":"none"},
+		{"id":"ced409dac3b855fa","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"5206de1941b781ad","toSide":"top"},
+		{"id":"7d071a50091ae80d","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"52108fa13374d57d","toSide":"top"}
 	]
 }
