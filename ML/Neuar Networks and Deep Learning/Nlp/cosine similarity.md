@@ -6,8 +6,10 @@
 Формула:
 ![[cosine similarity.svg]]
 Реализация на питоне:
-`py`
 
+`def cosine_sim(v1, v2):`
+	    `# v1, v2 (1 x dim)`
+	    `return np.array(v1 @ v2.T / norm(v1) / norm(v2))[0][0]`
 
 
 Источкники:
