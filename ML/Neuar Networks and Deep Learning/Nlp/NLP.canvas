@@ -1,30 +1,31 @@
 {
 	"nodes":[
-		{"id":"463295d5a3c28fd7","type":"text","text":" Natural Language Processing (NLP)","x":-660,"y":-450,"width":320,"height":80},
+		{"id":"cef30a2f7811c76a","type":"group","x":-2360,"y":-120,"width":1520,"height":1040,"label":" векторноые представления "},
 		{"id":"66579eac26cbff14","type":"text","text":"Qeution answering (Вопросно-ответные системы)","x":206,"y":-517,"width":514,"height":99},
-		{"id":"a5bb477cfad14537","type":"text","text":"Машинный перевод\nпример яндекс гугл переводчик","x":206,"y":-638,"width":433,"height":88},
 		{"id":"ce367b092ec4afbc","type":"text","text":"Суммаризация текста\n\nпример в гугл доках","x":206,"y":-370,"width":507,"height":72},
 		{"id":"984e8d06a15ac798","type":"text","text":"Диалоговые сыстемы","x":213,"y":-238,"width":250,"height":60},
-		{"id":"43e9847182c78ba6","type":"text","text":"Генерация текста","x":206,"y":-748,"width":250,"height":60},
-		{"id":"243381b9caf8c725","type":"text","text":"Классификация\n1) Sentiment analysis (Анализ настроения)","x":206,"y":-918,"width":420,"height":140},
-		{"id":"9b66ab460688bb07","type":"text","text":"Задачи","x":-280,"y":-594,"width":250,"height":60},
 		{"id":"aa8c74d3cb49d265","type":"text","text":" Named Entity Recognition (Распознование именновыных оъектов)","x":206,"y":-100,"width":420,"height":100},
-		{"id":"fa4ec2aae83524a0","type":"text","text":"мультизадачи (CV +NLP)","x":-196,"y":-1492,"width":250,"height":60},
-		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":166,"y":-1600,"width":307,"height":108},
-		{"id":"13b42e27c4a8afe8","type":"text","text":"OCR - Optical Character Recoding  \n(Распознавание текста на изображении)","x":166,"y":-1340,"width":307,"height":106},
-		{"id":"58dfb3287569022a","type":"text","text":" visual quetion answering","x":166,"y":-1462,"width":250,"height":60},
 		{"id":"48ec643e35f1d05f","type":"text","text":"Генерация видео и изображений по тексту","x":137,"y":-1194,"width":250,"height":60},
 		{"id":"6b9b50a72fbe3b3e","type":"text","text":"Классификация аудио","x":-1660,"y":-1237,"width":250,"height":60},
 		{"id":"f53928f6d140280f","type":"text","text":"Audio-to-text ,text-toaudio\n","x":-1369,"y":-1232,"width":290,"height":50},
-		{"id":"d72c3b69a51664ad","type":"text","text":"Обработака аудио","x":-1364,"y":-1441,"width":250,"height":60},
 		{"id":"a307b4dab1df3885","type":"text","text":"speech enhancement (улучшение качества звука)","x":-1040,"y":-1231,"width":250,"height":108},
 		{"id":"d3b394b1bd6ef9e1","type":"text","text":"РАзделение источников звука","x":-740,"y":-1231,"width":250,"height":108},
-		{"id":"f9ae7f9f7d9a489f","type":"text","text":"Эмбеддинг фраз и предложений \n1. \n\n","x":-880,"y":155,"width":320,"height":180},
-		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1520,"y":-370,"width":310,"height":100},
-		{"id":"2892dee39b38b22e","x":-2320,"y":155,"width":320,"height":225,"type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool"},
-		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1875,"y":155,"width":360,"height":225},
-		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1340,"y":148,"width":300,"height":240},
-		{"id":"a0aca11246297ab1","x":-1875,"y":500,"width":250,"height":60,"type":"text","text":"SVD  (Сингулярное разложение)"}
+		{"id":"d72c3b69a51664ad","type":"text","text":"Обработака аудио","x":-1364,"y":-1441,"width":250,"height":60},
+		{"id":"463295d5a3c28fd7","type":"text","text":" Natural Language Processing (NLP)","x":-660,"y":-450,"width":320,"height":80},
+		{"id":"43e9847182c78ba6","type":"text","text":"Генерация текста","x":206,"y":-748,"width":250,"height":60},
+		{"id":"243381b9caf8c725","type":"text","text":"Классификация\n1) Sentiment analysis (Анализ настроения)","x":206,"y":-918,"width":420,"height":140},
+		{"id":"9b66ab460688bb07","type":"text","text":"Задачи","x":-280,"y":-594,"width":250,"height":60},
+		{"id":"a5bb477cfad14537","type":"text","text":"Машинный перевод\nпример яндекс гугл переводчик","x":206,"y":-638,"width":433,"height":88},
+		{"id":"13b42e27c4a8afe8","type":"text","text":"OCR - Optical Character Recoding  \n(Распознавание текста на изображении)","x":166,"y":-1340,"width":307,"height":106},
+		{"id":"58dfb3287569022a","type":"text","text":" visual quetion answering","x":166,"y":-1462,"width":250,"height":60},
+		{"id":"fa4ec2aae83524a0","type":"text","text":"мультизадачи (CV +NLP)","x":-196,"y":-1492,"width":250,"height":60},
+		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":166,"y":-1600,"width":307,"height":108},
+		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1320,"y":220,"width":360,"height":225},
+		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов","x":-2260,"y":0,"width":250,"height":60},
+		{"id":"a0aca11246297ab1","type":"text","text":"SVD  (Сингулярное разложение)","x":-2260,"y":100,"width":250,"height":60},
+		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
+		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1630,"y":-50,"width":310,"height":100},
+		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-1300,"y":540,"width":320,"height":225}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
@@ -42,8 +43,8 @@
 		{"id":"091ba1ca5ac03854","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"f53928f6d140280f","toSide":"top"},
 		{"id":"a2236638d756014e","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"a307b4dab1df3885","toSide":"top"},
 		{"id":"3bca5439200c6a92","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"d3b394b1bd6ef9e1","toSide":"top"},
-		{"id":"9fccfc4dec9a3c5b","fromNode":"5206de1941b781ad","fromSide":"left","toNode":"2892dee39b38b22e","toSide":"right","toEnd":"none"},
 		{"id":"ced409dac3b855fa","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"5206de1941b781ad","toSide":"top"},
-		{"id":"7d071a50091ae80d","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"52108fa13374d57d","toSide":"top"}
+		{"id":"7d071a50091ae80d","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"52108fa13374d57d","toSide":"top"},
+		{"id":"d5c39b3b6a29bf2f","fromNode":"5206de1941b781ad","fromSide":"bottom","toNode":"2892dee39b38b22e","toSide":"top"}
 	]
 }
