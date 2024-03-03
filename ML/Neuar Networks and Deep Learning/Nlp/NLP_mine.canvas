@@ -11,7 +11,7 @@
 		{"id":"fa4ec2aae83524a0","type":"text","text":"мультизадачи (CV +NLP)","x":-196,"y":-1492,"width":250,"height":60},
 		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":166,"y":-1600,"width":307,"height":108},
 		{"id":"48ec643e35f1d05f","type":"text","text":"Генерация видео и изображений по тексту","x":137,"y":-1194,"width":250,"height":60},
-		{"id":"280489f104528029","type":"text","text":"Библиотеки:\n1. gensim","x":-2273,"y":-812,"width":433,"height":248},
+		{"id":"280489f104528029","type":"text","text":"Библиотеки:\n1. gensim\n2. natasha","x":-2273,"y":-812,"width":433,"height":248},
 		{"id":"43e9847182c78ba6","type":"text","text":"Генерация текста","x":206,"y":-748,"width":250,"height":60},
 		{"id":"243381b9caf8c725","type":"text","text":"Классификация\n1) Sentiment analysis (Анализ настроения)","x":206,"y":-918,"width":420,"height":140},
 		{"id":"66579eac26cbff14","type":"text","text":"Qeution answering (Вопросно-ответные системы)","x":206,"y":-517,"width":514,"height":99},
@@ -26,9 +26,10 @@
 		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
 		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1630,"y":-50,"width":310,"height":100},
 		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-1300,"y":540,"width":320,"height":225},
-		{"id":"a0aca11246297ab1","type":"text","text":"SVD  (Сингулярное разложение)","x":-2260,"y":273,"width":250,"height":60},
-		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-2283,"y":800,"width":296,"height":129},
-		{"id":"8f9ed68fdf18849c","type":"text","text":"[[Ranking]] (Ранжирование)\n","x":-2283,"y":540,"width":327,"height":80}
+		{"id":"5bdddfd2898c253d","x":-967,"y":-81,"width":250,"height":121,"type":"text","text":"педобработка текста\n1. стеминг\n2. лематизация"},
+		{"id":"a0aca11246297ab1","type":"text","text":"SVD  (Сингулярное разложение)","x":-1865,"y":480,"width":250,"height":60},
+		{"id":"8f9ed68fdf18849c","type":"text","text":"[[Ranking]] (Ранжирование)\n","x":-2298,"y":253,"width":327,"height":80},
+		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-2298,"y":381,"width":296,"height":64}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
