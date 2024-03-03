@@ -1,11 +1,5 @@
 {
 	"nodes":[
-		{"id":"32c79ab172c2ff37","type":"text","text":"Convolutional Neurel Networks (CNN)\n1. DCNN\n\n","x":-740,"y":-1400,"width":250,"height":179,"color":"3"},
-		{"id":"32a709ad29bfd8ea","type":"text","text":"Recurent Neura Networks\n(RNN)\n1. LSM\n2. GRU\n3. LSTM","x":-460,"y":-1400,"width":250,"height":202,"color":"3"},
-		{"id":"968a5efd9e773090","type":"text","text":"Generative adversarial Networks (GAN)","x":-180,"y":-1400,"width":250,"height":67,"color":"3"},
-		{"id":"3a79f809b44aa25b","type":"text","text":"Autoencoders\n1. seq2seq","x":100,"y":-1400,"width":287,"height":90,"color":"3"},
-		{"id":"169c16f2fa687ae4","type":"text","text":"Autoencoders","x":420,"y":-1400,"width":180,"height":67,"color":"3"},
-		{"id":"53c312b8f484a8cb","type":"text","text":"Percetrons","x":660,"y":-1400,"width":250,"height":67,"color":"3"},
 		{"id":"ec28e9b0d29481df","type":"text","text":" # Macine Learning","x":-145,"y":-459,"width":305,"height":79,"color":"4"},
 		{"id":"77384a0c56f623e3","type":"text","text":"# Neuar Networks and Deep Learning","x":-162,"y":-760,"width":322,"height":120,"color":"2"},
 		{"id":"000c29a318108be9","type":"text","text":"Unsupervised","x":208,"y":-165,"width":170,"height":60,"color":"3"},
@@ -24,7 +18,13 @@
 		{"id":"69f67afe55c8e79f","type":"file","file":"ML/Auxiliary files/Regresion.png","x":-368,"y":255,"width":148,"height":107},
 		{"id":"c4d9b87cd656111b","type":"file","file":"ML/Auxiliary files/Clusreting.png","x":-16,"y":239,"width":171,"height":121},
 		{"id":"94a5fb06944cf67e","type":"file","file":"ML/Auxiliary files/Association.png","x":214,"y":240,"width":159,"height":103},
-		{"id":"d0aae633790f51f2","type":"file","file":"ML/Auxiliary files/Demension Redution.png","x":409,"y":311,"width":179,"height":103}
+		{"id":"d0aae633790f51f2","type":"file","file":"ML/Auxiliary files/Demension Redution.png","x":409,"y":311,"width":179,"height":103},
+		{"id":"968a5efd9e773090","type":"text","text":"Generative adversarial Networks (GAN)","x":-360,"y":-1400,"width":250,"height":67,"color":"3"},
+		{"id":"32c79ab172c2ff37","type":"text","text":"Convolutional Neurel Networks (CNN)\n1. DCNN\n\n","x":-1120,"y":-1400,"width":250,"height":179,"color":"3"},
+		{"id":"32a709ad29bfd8ea","type":"text","text":"Recurent Neura Networks\n(RNN)\n1. LSM\n2. GRU\n3. LSTM","x":-800,"y":-1400,"width":250,"height":202,"color":"3"},
+		{"id":"169c16f2fa687ae4","type":"text","text":"Transformers","x":-60,"y":-1400,"width":180,"height":67,"color":"3"},
+		{"id":"3a79f809b44aa25b","type":"text","text":"Autoencoders\n1. seq2seq","x":220,"y":-1411,"width":287,"height":90,"color":"3"},
+		{"id":"53c312b8f484a8cb","type":"text","text":"Percetrons","x":540,"y":-1411,"width":250,"height":67,"color":"3"}
 	],
 	"edges":[
 		{"id":"58ca892ee33d4927","fromNode":"ec28e9b0d29481df","fromSide":"bottom","toNode":"23e58695a95ce86f","toSide":"top"},
@@ -38,7 +38,6 @@
 		{"id":"0670aaf117b4da61","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"32a709ad29bfd8ea","toSide":"bottom"},
 		{"id":"4e95fdffedb8842d","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"968a5efd9e773090","toSide":"bottom"},
 		{"id":"57ed4ecf8c702676","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"3a79f809b44aa25b","toSide":"bottom"},
-		{"id":"2e4762f1159f902d","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"169c16f2fa687ae4","toSide":"bottom"},
 		{"id":"f7af1a84fc186658","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"53c312b8f484a8cb","toSide":"bottom"},
 		{"id":"0be16a646b5b46f3","fromNode":"ec28e9b0d29481df","fromSide":"top","toNode":"77384a0c56f623e3","toSide":"bottom"},
 		{"id":"7485dc50d7d21d97","fromNode":"ec28e9b0d29481df","fromSide":"left","toNode":"470d3c4f0c9c6cc6","toSide":"top"},
@@ -50,6 +49,7 @@
 		{"id":"bf5b7285b9a974e9","fromNode":"6c8cc04caad8d57c","fromSide":"bottom","toNode":"69f67afe55c8e79f","toSide":"top"},
 		{"id":"226144bf4c8c10ee","fromNode":"41ade63feb8ad6c9","fromSide":"bottom","toNode":"c4d9b87cd656111b","toSide":"top"},
 		{"id":"13e9e2489346581d","fromNode":"453144ccbea7c3d6","fromSide":"bottom","toNode":"94a5fb06944cf67e","toSide":"top"},
-		{"id":"c2baefe723b7177d","fromNode":"977d8f816dd30ce2","fromSide":"bottom","toNode":"d0aae633790f51f2","toSide":"top"}
+		{"id":"c2baefe723b7177d","fromNode":"977d8f816dd30ce2","fromSide":"bottom","toNode":"d0aae633790f51f2","toSide":"top"},
+		{"id":"459eeb1335b3b3a4","fromNode":"77384a0c56f623e3","fromSide":"top","toNode":"169c16f2fa687ae4","toSide":"bottom"}
 	]
 }

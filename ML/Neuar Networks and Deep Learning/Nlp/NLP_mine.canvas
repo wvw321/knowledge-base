@@ -11,7 +11,7 @@
 		{"id":"fa4ec2aae83524a0","type":"text","text":"мультизадачи (CV +NLP)","x":-196,"y":-1492,"width":250,"height":60},
 		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":166,"y":-1600,"width":307,"height":108},
 		{"id":"48ec643e35f1d05f","type":"text","text":"Генерация видео и изображений по тексту","x":137,"y":-1194,"width":250,"height":60},
-		{"id":"280489f104528029","type":"text","text":"Библиотеки:\n1. gensim\n2. natasha","x":-2273,"y":-812,"width":433,"height":248},
+		{"id":"280489f104528029","type":"text","text":"Библиотеки:\n1. gensim\n2. natasha\n3. nltk","x":-2273,"y":-812,"width":433,"height":248},
 		{"id":"43e9847182c78ba6","type":"text","text":"Генерация текста","x":206,"y":-748,"width":250,"height":60},
 		{"id":"243381b9caf8c725","type":"text","text":"Классификация\n1) Sentiment analysis (Анализ настроения)","x":206,"y":-918,"width":420,"height":140},
 		{"id":"66579eac26cbff14","type":"text","text":"Qeution answering (Вопросно-ответные системы)","x":206,"y":-517,"width":514,"height":99},
@@ -21,15 +21,15 @@
 		{"id":"9b66ab460688bb07","type":"text","text":"Задачи","x":-280,"y":-594,"width":250,"height":60},
 		{"id":"a5bb477cfad14537","type":"text","text":"Машинный перевод\nпример яндекс гугл переводчик","x":206,"y":-638,"width":433,"height":88},
 		{"id":"463295d5a3c28fd7","type":"text","text":" Natural Language Processing (NLP)","x":-775,"y":-597,"width":320,"height":80},
-		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1320,"y":220,"width":360,"height":225},
-		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов\n1. [[Сosine similarity]](косинусное сходство)","x":-2260,"y":0,"width":370,"height":140},
-		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n1. Word2Vec\n2. Glo Ve\n3. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
-		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1630,"y":-50,"width":310,"height":100},
-		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-1300,"y":540,"width":320,"height":225},
-		{"id":"a0aca11246297ab1","type":"text","text":"SVD  (Сингулярное разложение)","x":-1865,"y":480,"width":250,"height":60},
-		{"id":"8f9ed68fdf18849c","type":"text","text":"[[Ranking]] (Ранжирование)\n","x":-2298,"y":253,"width":327,"height":80},
-		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-2298,"y":381,"width":296,"height":64},
-		{"id":"5bdddfd2898c253d","type":"text","text":"педобработка текста\n1. [[стеминг]]\n2. [[лематизация]]\n3. N-граммы","x":-1040,"y":-71,"width":250,"height":171}
+		{"id":"8f9ed68fdf18849c","type":"text","text":"[[Ranking]] (Ранжирование)\n","x":-1890,"y":1180,"width":327,"height":80},
+		{"id":"a0aca11246297ab1","type":"text","text":"","x":-2221,"y":576,"width":250,"height":50},
+		{"id":"5bdddfd2898c253d","type":"text","text":"ормализация текста перед эмбеддингом\n1. [[Stemming]]\n2. [[Lemmatization]]\n3. [[N-grams]]  ","x":-1740,"y":-80,"width":480,"height":320},
+		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-840,"y":506,"width":320,"height":225,"color":"1"},
+		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов\n1. [[Сosine similarity]](косинусное сходство)","x":-1890,"y":954,"width":370,"height":140},
+		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-1313,"y":960,"width":296,"height":64},
+		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1590,"y":280,"width":270,"height":200},
+		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n1. [[Word2Vec]]\n2. [[Glo Ve]]\n3. [[FastText]]\n\n","x":-1920,"y":560,"width":300,"height":240},
+		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1345,"y":560,"width":360,"height":225}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
@@ -49,6 +49,10 @@
 		{"id":"3bca5439200c6a92","fromNode":"d72c3b69a51664ad","fromSide":"bottom","toNode":"d3b394b1bd6ef9e1","toSide":"top"},
 		{"id":"ced409dac3b855fa","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"5206de1941b781ad","toSide":"top"},
 		{"id":"7d071a50091ae80d","fromNode":"bcacb799098e9bbd","fromSide":"bottom","toNode":"52108fa13374d57d","toSide":"top"},
-		{"id":"d5c39b3b6a29bf2f","fromNode":"5206de1941b781ad","fromSide":"bottom","toNode":"2892dee39b38b22e","toSide":"top"}
+		{"id":"6d8e4b88e2b316cd","fromNode":"5bdddfd2898c253d","fromSide":"bottom","toNode":"bcacb799098e9bbd","toSide":"top"},
+		{"id":"1ba13bbb3ecac5c5","fromNode":"52108fa13374d57d","fromSide":"left","toNode":"a0aca11246297ab1","toSide":"right"},
+		{"id":"cb8c26eada812588","fromNode":"463295d5a3c28fd7","fromSide":"right","toNode":"9b66ab460688bb07","toSide":"left"},
+		{"id":"57cf29c429c5fc5d","fromNode":"9b66ab460688bb07","fromSide":"top","toNode":"fa4ec2aae83524a0","toSide":"left"},
+		{"id":"4f6c4ffd40463f0a","fromNode":"5206de1941b781ad","fromSide":"right","toNode":"2892dee39b38b22e","toSide":"left","toEnd":"none"}
 	]
 }
