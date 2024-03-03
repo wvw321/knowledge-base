@@ -23,13 +23,13 @@
 		{"id":"463295d5a3c28fd7","type":"text","text":" Natural Language Processing (NLP)","x":-775,"y":-597,"width":320,"height":80},
 		{"id":"5206de1941b781ad","type":"text","text":"Математические методы\n1. One - hote  encoding \n2. Bag of words (BoW)\n3. Tf_idf\n4. Latent semantic analysis (LSA)\n\n","x":-1320,"y":220,"width":360,"height":225},
 		{"id":"b9b48f464c7d9744","type":"text","text":"Меры сходства векторов\n1. [[Сosine similarity]](косинусное сходство)","x":-2260,"y":0,"width":370,"height":140},
-		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n2. Word2Vec\n3. Glo Ve\n4. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
+		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n1. Word2Vec\n2. Glo Ve\n3. FastText\n\n","x":-1890,"y":205,"width":300,"height":240},
 		{"id":"bcacb799098e9bbd","type":"text","text":" [[Embedding]]\n ","x":-1630,"y":-50,"width":310,"height":100},
 		{"id":"2892dee39b38b22e","type":"link","url":"https://www.youtube.com/watch?v=EOgwODW67PE&t=1691s&ab_channel=DeepLearningSchool","x":-1300,"y":540,"width":320,"height":225},
-		{"id":"5bdddfd2898c253d","x":-967,"y":-81,"width":250,"height":121,"type":"text","text":"педобработка текста\n1. стеминг\n2. лематизация"},
 		{"id":"a0aca11246297ab1","type":"text","text":"SVD  (Сингулярное разложение)","x":-1865,"y":480,"width":250,"height":60},
 		{"id":"8f9ed68fdf18849c","type":"text","text":"[[Ranking]] (Ранжирование)\n","x":-2298,"y":253,"width":327,"height":80},
-		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-2298,"y":381,"width":296,"height":64}
+		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-2298,"y":381,"width":296,"height":64},
+		{"id":"5bdddfd2898c253d","type":"text","text":"педобработка текста\n1. [[стеминг]]\n2. [[лематизация]]\n3. N-граммы","x":-1040,"y":-71,"width":250,"height":171}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
