@@ -18,13 +18,21 @@ def cosine_sim(v1, v2):
 
 
 ```
+где- v1 @ v2 аналог (np.dot(v1, v2)) просто перемножение векторов
+
 
 с помощью  библиотеки [gensim](https://radimrehurek.com/gensim/)
 ```
 import gensim
-sim = gensim.matutils.cossim(vec_lda1, vec_lda2)
+sim = gensim.matutils.cossim(v1, v2)
 
 ```
-где- v1 @ v2 аналог (np.dot(v1, v2)) просто перемножение векторов
+
+с помощью  библиотеки [sklearn](https://scikit-learn.org/stable/index.html)
+```
+from sklearn.metrics.pairwise import cosine_similarity
+sim =cosine_similarity(v1,v2)
+
+```
 Источники:
 https://en.wikipedia.org/wiki/Cosine_similarity
