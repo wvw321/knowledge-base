@@ -23,3 +23,5 @@ embeddings_trained_lemma = Word2Vec(sentences,
 - window - Maximum distance between the current and predicted word within a sentence
 - workers -  Use these many worker threads to train the mode
 - sg - CBOW, sg=1 - Skip-Gram
+
+https://habr.com/ru/articles/446530/
