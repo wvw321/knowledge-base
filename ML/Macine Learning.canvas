@@ -21,10 +21,10 @@
 		{"id":"d0aae633790f51f2","type":"file","file":"ML/Auxiliary files/Demension Redution.png","x":409,"y":311,"width":179,"height":103},
 		{"id":"968a5efd9e773090","type":"text","text":"Generative adversarial Networks (GAN)","x":-360,"y":-1400,"width":250,"height":67,"color":"3"},
 		{"id":"32c79ab172c2ff37","type":"text","text":"Convolutional Neurel Networks (CNN)\n1. DCNN\n\n","x":-1120,"y":-1400,"width":250,"height":179,"color":"3"},
-		{"id":"32a709ad29bfd8ea","type":"text","text":"Recurent Neura Networks\n(RNN)\n1. LSM\n2. GRU\n3. LSTM","x":-800,"y":-1400,"width":250,"height":202,"color":"3"},
 		{"id":"169c16f2fa687ae4","type":"text","text":"Transformers","x":-60,"y":-1400,"width":180,"height":67,"color":"3"},
 		{"id":"3a79f809b44aa25b","type":"text","text":"Autoencoders\n1. seq2seq","x":220,"y":-1411,"width":287,"height":90,"color":"3"},
-		{"id":"53c312b8f484a8cb","type":"text","text":"Percetrons","x":540,"y":-1411,"width":250,"height":67,"color":"3"}
+		{"id":"53c312b8f484a8cb","type":"text","text":"Percetrons","x":540,"y":-1411,"width":250,"height":67,"color":"3"},
+		{"id":"32a709ad29bfd8ea","type":"text","text":"Recurent Neura Networks\n(RNN)\n1. LSM\n2. GRU\n3. LSTM","x":-780,"y":-1400,"width":250,"height":202,"color":"3"}
 	],
 	"edges":[
 		{"id":"58ca892ee33d4927","fromNode":"ec28e9b0d29481df","fromSide":"bottom","toNode":"23e58695a95ce86f","toSide":"top"},
