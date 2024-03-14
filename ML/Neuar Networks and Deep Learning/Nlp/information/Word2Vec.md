@@ -5,10 +5,10 @@ CBOW
 Skip-Gram
 [[SVD ]] (Сингулярное разложение)
 
-Реализация
+Реализация gensim
 
 ```python
-import 
+from gensim.models import Word2Vec
 embeddings_trained_lemma = Word2Vec(sentences, 
 								    vector_size,   
 									min_count, 

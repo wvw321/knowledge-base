@@ -7,7 +7,7 @@
 		{"id":"453144ccbea7c3d6","type":"text","text":"Association\n1. FP Growth\n2. Euclat \n3. Appriori","x":202,"y":-25,"width":182,"height":160,"color":"6"},
 		{"id":"977d8f816dd30ce2","type":"text","text":"Demension\nRedution\n(Generalization)\n1. t-SNE\n2. PCA\n3. LSA\n4. SVD\n5. LDA","x":409,"y":-25,"width":180,"height":280,"color":"6"},
 		{"id":"470d3c4f0c9c6cc6","type":"text","text":"Reinforcment Lerning\n1. Q-learning\n2. DQN\n3. SARSA\n4. Genetic Algorithm\n5. AЭC ?","x":-1160,"y":-165,"width":250,"height":202,"color":"3"},
-		{"id":"23e58695a95ce86f","type":"text","text":"Supervised","x":-525,"y":-165,"width":160,"height":60,"color":"3"},
+		{"id":"23e58695a95ce86f","type":"text","text":"Supervised","x":-525,"y":-165,"width":145,"height":60,"color":"3"},
 		{"id":"6c8cc04caad8d57c","type":"text","text":"Regresion\n1. Polynominal Regresion\n2. Linear Regresion\n3. Ridge/Lasso Regresion","x":-427,"y":-25,"width":265,"height":160,"color":"6"},
 		{"id":"361ba773ab607882","type":"text","text":"Classification \n1. Decision Tress\n2. SVM\n3. Logistic Regresion\n4. Naive Baes\n5. K-NN","x":-720,"y":-25,"width":240,"height":225,"color":"6"},
 		{"id":"761cae08492f9d1d","type":"text","text":"Ensemble Learning","x":966,"y":-165,"width":201,"height":60,"color":"3"},
