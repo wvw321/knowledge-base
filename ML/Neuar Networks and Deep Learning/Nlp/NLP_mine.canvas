@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"cef30a2f7811c76a","type":"group","x":-4160,"y":-400,"width":1640,"height":1200,"label":" векторноые представления "},
-		{"id":"e847e436b40be0c4","type":"group","x":-2930,"y":-2416,"width":1010,"height":856,"label":"машинный перевод "},
+		{"id":"e847e436b40be0c4","type":"group","x":-3320,"y":-2900,"width":1010,"height":1000,"label":"машинный перевод "},
 		{"id":"dbfd8ff5a53023de","type":"text","text":"image/video captioning\n(Описание изображения видео)","x":686,"y":-1645,"width":307,"height":108},
 		{"id":"52108fa13374d57d","type":"text","text":"Нейросетевые методы\n1. [[Word2Vec]]\n2. [[Glo Ve]]\n3. [[FastText]]\n\n","x":-3600,"y":260,"width":300,"height":240},
 		{"id":"6d8c330745f929a4","type":"text","text":"Оценка близости текстов\n","x":-3960,"y":260,"width":296,"height":64},
@@ -42,11 +42,12 @@
 		{"id":"050153983d155c8c","type":"text","text":"GRU","x":-948,"y":200,"width":250,"height":60},
 		{"id":"043d7597a01c8bbf","type":"text","text":"[[RNN]]","x":-1531,"y":200,"width":250,"height":60},
 		{"id":"6cac0df2189b850a","type":"link","url":"https://www.kaggle.com/code/rftexas/ml-cheatsheet-a-mind-map-for-nlp/notebook","x":-2240,"y":1480,"width":2315,"height":1360},
-		{"id":"60027c4b045f80ad","type":"text","text":"[[Машинный перевод]]\n","x":-2630,"y":-2280,"width":250,"height":60},
-		{"id":"cfb9d8e475bf2f74","x":-2630,"y":-2180,"width":250,"height":60,"type":"text","text":"encoder decoder"},
-		{"id":"fa26f08075a4f734","type":"text","text":"seq2seq","x":-2780,"y":-2060,"width":250,"height":60},
-		{"id":"4909559a2896cf74","x":-2787,"y":-1960,"width":250,"height":60,"type":"text","text":"beam serch"},
-		{"id":"3df8bd3546e43053","x":-2668,"y":-1877,"width":250,"height":60,"type":"text","text":"Belue - качаство метрики"}
+		{"id":"60027c4b045f80ad","type":"text","text":"[[Машинный перевод]]\n","x":-3020,"y":-2620,"width":250,"height":60},
+		{"id":"cfb9d8e475bf2f74","x":-3020,"y":-2520,"width":250,"height":60,"type":"text","text":"encoder decoder"},
+		{"id":"fa26f08075a4f734","type":"text","text":"seq2seq","x":-3170,"y":-2400,"width":250,"height":60},
+		{"id":"4909559a2896cf74","x":-3177,"y":-2300,"width":250,"height":60,"type":"text","text":"beam serch"},
+		{"id":"3df8bd3546e43053","x":-3058,"y":-2217,"width":250,"height":60,"type":"text","text":"Belue - качаство метрики"},
+		{"id":"717c3a6f09114d9f","x":-2251,"y":-2507,"width":250,"height":60,"type":"text","text":"Transformers\n"}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
