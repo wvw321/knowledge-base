@@ -44,7 +44,9 @@
 		{"id":"6cac0df2189b850a","type":"link","url":"https://www.kaggle.com/code/rftexas/ml-cheatsheet-a-mind-map-for-nlp/notebook","x":-2240,"y":1480,"width":2315,"height":1360},
 		{"id":"60027c4b045f80ad","type":"text","text":"[[Машинный перевод]]\n","x":-2630,"y":-2280,"width":250,"height":60},
 		{"id":"cfb9d8e475bf2f74","x":-2630,"y":-2180,"width":250,"height":60,"type":"text","text":"encoder decoder"},
-		{"id":"fa26f08075a4f734","type":"text","text":"seq2seq","x":-2780,"y":-2060,"width":250,"height":60}
+		{"id":"fa26f08075a4f734","type":"text","text":"seq2seq","x":-2780,"y":-2060,"width":250,"height":60},
+		{"id":"4909559a2896cf74","x":-2787,"y":-1960,"width":250,"height":60,"type":"text","text":"beam serch"},
+		{"id":"3df8bd3546e43053","x":-2668,"y":-1877,"width":250,"height":60,"type":"text","text":"Belue - качаство метрики"}
 	],
 	"edges":[
 		{"id":"a41963a7b14bc533","fromNode":"9b66ab460688bb07","fromSide":"right","toNode":"243381b9caf8c725","toSide":"left"},
