@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"b09ca56dd4ed7acf","x":-20,"y":-140,"width":188,"height":60,"type":"text","text":"Algorithms"},
-		{"id":"8cdb71187bf70925","x":0,"y":28,"width":250,"height":60,"type":"text","text":""},
-		{"id":"e545b94594a3d320","x":-340,"y":28,"width":216,"height":60,"type":"text","text":"Линейный поиск "}
+		{"id":"b09ca56dd4ed7acf","type":"text","text":"Algorithms","x":-20,"y":-140,"width":188,"height":60},
+		{"id":"e545b94594a3d320","type":"text","text":"Линейный поиск ","x":-440,"y":4,"width":216,"height":60},
+		{"id":"8cdb71187bf70925","type":"text","text":"Множества и словари","x":-176,"y":4,"width":250,"height":60},
+		{"id":"e50eefcb061daeff","type":"text","text":"Бинарный поиск ","x":100,"y":4,"width":250,"height":60},
+		{"id":"29b96496c7c67924","type":"text","text":"[[Префиксные суммы]]","x":341,"y":-9,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7bcf24d08f5a43fa","fromNode":"b09ca56dd4ed7acf","fromSide":"bottom","toNode":"e545b94594a3d320","toSide":"top"},
-		{"id":"83b6b71f414b691b","fromNode":"b09ca56dd4ed7acf","fromSide":"bottom","toNode":"8cdb71187bf70925","toSide":"top"}
+		{"id":"83b6b71f414b691b","fromNode":"b09ca56dd4ed7acf","fromSide":"bottom","toNode":"8cdb71187bf70925","toSide":"top"},
+		{"id":"aab744a62a556e5f","fromNode":"b09ca56dd4ed7acf","fromSide":"bottom","toNode":"e50eefcb061daeff","toSide":"top"},
+		{"id":"357b484a4213dbc6","fromNode":"b09ca56dd4ed7acf","fromSide":"bottom","toNode":"29b96496c7c67924","toSide":"top"}
 	]
 }
