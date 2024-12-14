@@ -1,2 +1,2 @@
 #  Структуризация знаний
-Формата https://obsidian.md/
+Формат https://obsidian.md/
